@@ -10,7 +10,7 @@ export interface RESTGetAPIAuditLogQuery {
 	/**
 	 * Filter the log for actions made by a user
 	 */
-	user_id?: Snowflake;
+	user_id?: Snowflake;//
 	/**
 	 * The type of audit log events
 	 */

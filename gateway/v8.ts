@@ -84,6 +84,7 @@ export enum GatewayOpcodes {
 	 * Sent in response to receiving a heartbeat to acknowledge that it has been received
 	 */
 	HeartbeatAck,
+	No,
 }
 
 /**
