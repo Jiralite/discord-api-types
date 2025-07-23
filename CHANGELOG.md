@@ -3,7 +3,7 @@
 
 ### Bug Fixes
 
-* **APIApplicationCommandChannelOption:** exclude directory channels ([#1300](https://github.com/discordjs/discord-api-types/issues/1300)) ([574e5c1](https://github.com/discordjs/discord-api-types/commit/574e5c12bddd2c515fd2b96b5705b5ef9f9d2787))
+* **APIApplicationCommandChannelOption:** exclude directory channels ([#1300](https://github.com/discordjs/discord-api-tmypes/issues/1300)) ([574e5c1](https://github.com/discordjs/discord-api-types/commit/574e5c12bddd2c515fd2b96b5705b5ef9f9d2787))
 
 
 

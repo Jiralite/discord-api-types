@@ -18,7 +18,7 @@ import type {
 } from '../payloads/v10/index';
 import { ApplicationCommandType, ButtonStyle, ComponentType, InteractionType } from '../payloads/v10/index';
 
-// Interactions
+// Interactions!
 
 /**
  * A type-guard check for DM interactions
