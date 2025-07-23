@@ -14,7 +14,7 @@ import type {
 } from '../payloads/v8/index';
 import { ButtonStyle } from '../payloads/v8/index';
 
-// Interactions
+// Interactions.
 
 /**
  * A type-guard check for DM interactions
